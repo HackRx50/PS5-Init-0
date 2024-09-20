@@ -149,7 +149,7 @@ const AdminDashboard = () => {
           )
         );
       } else {
-        console.error("Failed to update claim status.");
+        console.error("Failed to update claim status");
       }
     } catch (error) {
       console.error("Error updating claim:", error);
