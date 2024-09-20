@@ -1,70 +1,67 @@
-# Getting Started with Create React App
+# Legal AI Analytics and Fraud Detection System
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Problem Statement
+Insurance companies face significant losses due to fraudulent claims, but detecting fraud based on legal patterns from court cases remains a complex challenge. Our solution addresses this by combining AI, data scraping, and predictive modeling to identify fraudulent claims and classify cases under relevant legal sections.
 
-## Available Scripts
+## Overview
+Our solution predicts and detects potential fraud in insurance claims by analyzing litigation patterns from scraped legal records across Indian court orders and petitions. Using advanced AI technologies like Graph Neural Networks (GNN) and GraphSage, we deliver actionable insights to insurers, achieving a fraud detection accuracy of at least **82%**.
 
-In the project directory, you can run:
+## Features
+### 1. **Fraud Detection**
+   - **AI-driven classification** of cases using GNNs and GraphSage.
+   - Minimum fraud detection accuracy of **82%**.
+   - Classification under relevant legal sections associated with fraud.
 
-### `npm start`
+### 2. **Real-Time Alerts**
+   - Automated **email and SMS notifications** for detected fraud incidents.
+   - **On-dashboard notifications** with clear segregation of fraud cases for immediate awareness and response.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 3. **Comprehensive Data Management**
+   - Effective scraping and processing of legal data from multiple court websites.
+   - **OCR** (Optical Character Recognition) technology for extracting text from PDFs and other formats.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 4. **User-Centric Interface**
+   - **User-friendly dashboard** displaying case distributions, fraud patterns, and other insights.
+   - **Compensation analysis** based on historical data to predict possible compensation amounts.
+   - **Data visualization tools**, including fraud network graphs and named entity recognition (NER) for enhanced analysis.
 
-### `npm test`
+### 5. **Actionable Insights and Reporting**
+   - AI-powered predictions and identification of fraudulent activity.
+   - **Automated reports** summarizing detected fraud trends and patterns.
+   - Future enhancements include multi-language OCR support and improved graph-based insights.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 6. **Robust Tech Stack**
+   - **Frontend**: Next.js, Chakra UI, Chart.js
+   - **Backend**: Django, MySQL
+   - **Web Scraping**: Data Miner -> Chrome Extension
+   - **Cloud Services**: AWS S3, AWS EBS
+   - **ML Models**: GNNs, GraphSage (PyTorch, Numpy, Pandas)
+   - **OCR**: Tesseract
+   - **Alerts**: SMTP-based email notifications
 
-### `npm run build`
+## Unique Selling Points (USPs)
+### 1. **Multi-Layered Analysis**
+   - Combines pattern recognition, historical data analysis, and predictive modeling to detect known and emerging fraud techniques.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 2. **Proactive Fraud Prevention**
+   - Predicts hypothetical fraud scenarios for preemptive strategy development.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 3. **Graph-Based Approach**
+   - Utilizes GNNs to capture relationships between cases, claimants, and legal sections for enhanced detection accuracy.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 4. **Dual Prediction Capability**
+   - Predicts both fraud likelihood and classifies cases under specific legal sections for deeper insights.
 
-### `npm run eject`
+### 5. **Comprehensive Dashboard**
+   - Visual insights on fraud trends, case distributions, and historical patterns across jurisdictions for well-informed decision-making.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Screenshots
+https://drive.google.com/drive/folders/1ozmCMCm-__FjzCL9Nc4MS-oNNlW-LqgQ?usp=sharing
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Contributors
+- Shivam Musterya
+- Vaibhav Vanage
+- Vividha Jagtap
+- Taher Afsar
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
