@@ -106,7 +106,7 @@ function InsuranceClaimForm() {
       console.error('Error:', error);
       toast({
         title: "Submission failed",
-        description: "There was an error submitting your claim.",
+        description: "There was an error submitting your claim",
         status: "error",
         duration: 3000,
         isClosable: true,
