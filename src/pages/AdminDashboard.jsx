@@ -54,7 +54,6 @@ const AdminDashboard = () => {
   const bgColor = useColorModeValue("white", "gray.700");
   const hoverBgColor = useColorModeValue("gray.100", "gray.600");
 
-  // Fetch claims from API
   useEffect(() => {
     const fetchClaims = async () => {
       try {
@@ -63,7 +62,7 @@ const AdminDashboard = () => {
         );
         const data = await response.json();
 
-        // Mapping API response to the current claim structure
+        
         const formattedClaims = data.claims.map((claim) => ({
           id: claim.id,
           fullName: claim.full_name,
