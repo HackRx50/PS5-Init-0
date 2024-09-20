@@ -16,7 +16,7 @@ function AllRoutes() {
         {" "}
         <Routes>
           <Route path="/" element={<Login />} />
-          <Route path="/signUp" element={<Register />} />
+          <Route path="/submit-claim" element={<Register />} />
           <Route path="/userProfile" element={<UserProfile />} />
           <Route
             path="/adminDashboard"

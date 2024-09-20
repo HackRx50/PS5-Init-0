@@ -87,7 +87,7 @@ function Navbar() {
           <HStack as={"nav"} spacing={4} display={{ base: "none", md: "flex" }}>
             <NavLink to="/adminDashboard">Dashboard</NavLink>
             <NavLink to="/">Admin Login</NavLink>
-            <NavLink to="/signUp">Submit Claim</NavLink>
+            <NavLink to="/submit-claim">Submit Claim</NavLink>
           </HStack>
         </HStack>
         <Flex alignItems={"center"}>
@@ -170,7 +170,7 @@ function Navbar() {
           <Stack as={"nav"} spacing={4}>
             <NavLink to="/adminDashboard">Dashboard</NavLink>
             <NavLink to="/">Admin Login</NavLink>
-            <NavLink to="/signUp">Submit Claim</NavLink>
+            <NavLink to="/submit-claim">Submit Claim</NavLink>
           </Stack>
         </Box>
       ) : null}

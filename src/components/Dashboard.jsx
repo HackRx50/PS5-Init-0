@@ -78,103 +78,101 @@ const Dashboard = () => {
   const { isOpen: isDistributionOpen, onOpen: onDistributionOpen, onClose: onDistributionClose } = useDisclosure();
   const { isOpen: isFraudOpen, onOpen: onFraudOpen, onClose: onFraudClose } = useDisclosure();
   const { isOpen: isOutcomesOpen, onOpen: onOutcomesOpen, onClose: onOutcomesClose } = useDisclosure();
-
   useEffect(() => {
     // Simulating API call to fetch data
     const fetchData = async () => {
-      // In a real application, this would be an API call
-      // For now, we'll use placeholder data
+     
       setDashboardData({
         summaryData: {
-          totalClaims: 1234,
-          fraudCases: 56,
-          averageClaimAmount: 5678,
-          pendingReviews: 89
+          totalClaims: 2341,
+          fraudCases: 75,
+          averageClaimAmount: 9250,
+          pendingReviews: 125
         },
         monthlyData: [
-          { month: 'Jan', claims: 65 }, { month: 'Feb', claims: 59 },
-          { month: 'Mar', claims: 80 }, { month: 'Apr', claims: 81 },
-          { month: 'May', claims: 56 }, { month: 'Jun', claims: 55 },
-          { month: 'Jul', claims: 40 }, { month: 'Aug', claims: 70 },
-          { month: 'Sep', claims: 90 }, { month: 'Oct', claims: 85 },
-          { month: 'Nov', claims: 78 }, { month: 'Dec', claims: 92 }
+          { month: 'Jan', claims: 190 }, { month: 'Feb', claims: 210 },
+          { month: 'Mar', claims: 225 }, { month: 'Apr', claims: 280 },
+          { month: 'May', claims: 265 }, { month: 'Jun', claims: 240 },
+          { month: 'Jul', claims: 310 }, { month: 'Aug', claims: 350 },
+          { month: 'Sep', claims: 400 }, { month: 'Oct', claims: 370 },
+          { month: 'Nov', claims: 390 }, { month: 'Dec', claims: 420 }
         ],
         yearlyData: [
-          { year: '2019', claims: 300 },
-          { year: '2020', claims: 450 },
-          { year: '2021', claims: 320 },
-          { year: '2022', claims: 500 },
-          { year: '2023', claims: 380 }
+          { year: '2019', claims: 1580 },
+          { year: '2020', claims: 1920 },
+          { year: '2021', claims: 1850 },
+          { year: '2022', claims: 2300 },
+          { year: '2023', claims: 2700 }
         ],
         claimTypeData: [
-          { type: 'Health', value: 400 },
-          { type: 'Property', value: 300 },
-          { type: 'Life', value: 200 },
-          { type: 'Auto', value: 100 }
+          { type: 'Health', value: 1050 },
+          { type: 'Property', value: 780 },
+          { type: 'Life', value: 450 },
+          { type: 'Auto', value: 250 }
         ],
         sectionData: [
-          { section: 'Section A', value: 250 },
-          { section: 'Section B', value: 150 },
-          { section: 'Section C', value: 100 },
-          { section: 'Section D', value: 50 }
+          { section: 'Section A', value: 520 },
+          { section: 'Section B', value: 340 },
+          { section: 'Section C', value: 280 },
+          { section: 'Section D', value: 150 }
         ],
         fraudData: [
-          { name: 'Fraud', value: 15 },
-          { name: 'Non-Fraud', value: 85 }
+          { name: 'Fraud', value: 75 },
+          { name: 'Non-Fraud', value: 2266 }
         ],
         monthlyFraudData: [
-          { month: 'Jan', fraudCases: 5 }, { month: 'Feb', fraudCases: 7 },
-          { month: 'Mar', fraudCases: 6 }, { month: 'Apr', fraudCases: 8 },
-          { month: 'May', fraudCases: 4 }, { month: 'Jun', fraudCases: 9 }
+          { month: 'Jan', fraudCases: 6 }, { month: 'Feb', fraudCases: 8 },
+          { month: 'Mar', fraudCases: 10 }, { month: 'Apr', fraudCases: 9 },
+          { month: 'May', fraudCases: 7 }, { month: 'Jun', fraudCases: 12 }
         ],
         topFraudClaims: [
-          { id: 1, amount: 50000 },
-          { id: 2, amount: 45000 },
-          { id: 3, amount: 40000 },
-          { id: 4, amount: 35000 },
-          { id: 5, amount: 30000 }
+          { id: 43, amount: 100000 },
+          { id: 92, amount: 85000 },
+          { id: 111, amount: 75000 },
+          { id: 123, amount: 62000 },
+          { id: 69, amount: 58000 }
         ],
         avgFraudAmount: [
-          { month: 'Jan', amount: 30000 }, { month: 'Feb', amount: 32000 },
-          { month: 'Mar', amount: 28000 }, { month: 'Apr', amount: 35000 },
-          { month: 'May', amount: 31000 }, { month: 'Jun', amount: 33000 }
+          { month: 'Jan', amount: 50000 }, { month: 'Feb', amount: 46000 },
+          { month: 'Mar', amount: 55000 }, { month: 'Apr', amount: 62000 },
+          { month: 'May', amount: 53000 }, { month: 'Jun', amount: 58000 }
         ],
         caseOutcomeData: [
-          { outcome: 'Resolved', value: 500 },
-          { outcome: 'Pending', value: 300 },
-          { outcome: 'Dismissed', value: 200 }
+          { outcome: 'Resolved', value: 1950 },
+          { outcome: 'Pending', value: 280 },
+          { outcome: 'Dismissed', value: 125 }
         ],
         resolutionTimeData: [
-          { month: 'Jan', time: 15 }, { month: 'Feb', time: 18 },
-          { month: 'Mar', time: 14 }, { month: 'Apr', time: 16 },
-          { month: 'May', time: 17 }, { month: 'Jun', time: 15 }
+          { month: 'Jan', time: 12 }, { month: 'Feb', time: 14 },
+          { month: 'Mar', time: 11 }, { month: 'Apr', time: 16 },
+          { month: 'May', time: 13 }, { month: 'Jun', time: 14 }
         ],
         claimVsPayoutData: [
-          { month: 'Jan', claim: 150000, payout: 120000 },
-          { month: 'Feb', claim: 180000, payout: 150000 },
-          { month: 'Mar', claim: 160000, payout: 130000 },
-          { month: 'Apr', claim: 200000, payout: 170000 },
-          { month: 'May', claim: 170000, payout: 140000 },
-          { month: 'Jun', claim: 190000, payout: 160000 }
+          { month: 'Jan', claim: 450000, payout: 420000 },
+          { month: 'Feb', claim: 500000, payout: 470000 },
+          { month: 'Mar', claim: 480000, payout: 440000 },
+          { month: 'Apr', claim: 520000, payout: 500000 },
+          { month: 'May', claim: 510000, payout: 470000 },
+          { month: 'Jun', claim: 550000, payout: 530000 }
         ],
         topApplicantsData: [
-          { name: 'John Doe', claims: 10 },
-          { name: 'Jane Smith', claims: 8 },
-          { name: 'Bob Johnson', claims: 7 },
-          { name: 'Alice Brown', claims: 6 },
-          { name: 'Charlie Davis', claims: 5 }
+          { name: 'Amit Sharma', claims: 18 },
+          { name: 'Priya Nair', claims: 15 },
+          { name: 'Rajiv Mehta', claims: 12 },
+          { name: 'Sunita Patel', claims: 10 },
+          { name: 'Vikas Reddy', claims: 8 }
         ],
         topFraudSuspectsData: [
-          { name: 'Suspect A', fraudClaims: 5 },
-          { name: 'Suspect B', fraudClaims: 4 },
-          { name: 'Suspect C', fraudClaims: 3 },
-          { name: 'Suspect D', fraudClaims: 3 },
-          { name: 'Suspect E', fraudClaims: 2 }
+          { name: 'Taher Afsar', fraudClaims: 1 },
+          { name: 'John Doe', fraudClaims: 1 },
+          { name: 'Ravi Deshmukh', fraudClaims: 2 },
+          { name: 'Rakesh Kumar', fraudClaims: 1 },
+          { name: 'Sangeeta Iyer', fraudClaims: 1 }
         ],
         alarmTriggersData: [
-          { month: 'Jan', triggers: 20 }, { month: 'Feb', triggers: 25 },
-          { month: 'Mar', triggers: 18 }, { month: 'Apr', triggers: 22 },
-          { month: 'May', triggers: 27 }, { month: 'Jun', triggers: 23 }
+          { month: 'Jan', triggers: 35 }, { month: 'Feb', triggers: 28 },
+          { month: 'Mar', triggers: 42 }, { month: 'Apr', triggers: 36 },
+          { month: 'May', triggers: 50 }, { month: 'Jun', triggers: 45 }
         ]
       });
     };
@@ -185,6 +183,7 @@ const Dashboard = () => {
 
     return () => clearInterval(intervalId);
   }, []);
+
 
   const chartHeight = "250px";
   const chartColors = {
@@ -272,7 +271,7 @@ const Dashboard = () => {
           <ChartComponent 
             type="bar"
             data={{
-              labels: dashboardData.topFraudClaims.map(item => `Claim ${item.id}`),
+              labels: dashboardData.topFraudClaims.map(item => `Claim Id: ${item.id}`),
               datasets: [{
                 label: 'Claim Amount',
                 data: dashboardData.topFraudClaims.map(item => item.amount),

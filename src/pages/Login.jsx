@@ -83,7 +83,7 @@ function Login() {
                 justify={"space-between"}
               >
                 <Checkbox>Remember me</Checkbox>
-                <Link color={"blue.400"} href="/signUp">
+                <Link color={"blue.400"} href="/submit-claim">
                   SignUp
                 </Link>
               </Stack>

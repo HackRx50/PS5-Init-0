@@ -42,31 +42,78 @@ function InsuranceClaimForm() {
     const { name, value, type, checked, files } = e.target;
     setFormData(prevState => ({
       ...prevState,
-      [name]: type === 'checkbox' ? checked : type === 'file' ? files[0] : value
+      [name]: type === 'checkbox' ? checked : type === 'file' ? files : value
     }));
   };
-
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
-    // Here you would typically send the form data to your backend
-    console.log(formData);
-    toast({
-      title: "Claim submitted successfully",
-      status: "success",
-      duration: 3000,
-      isClosable: true,
-    });
-    setTimeout(() => {
+  
+    const data = new FormData();
+    data.append("full_name", formData.fullName);
+    data.append("contact_number", formData.contactNumber);
+    data.append("email_address", formData.email);
+    data.append("incident_date", formData.incidentDate);
+    data.append("claim_type", formData.claimType);
+    data.append("claim_amount", formData.claimAmount);
+    data.append("incident_description", formData.incidentDescription);
+    data.append("policy_number", formData.policyNumber);
+    data.append("issuer_name", formData.insurerName);
+    data.append("payment_method", formData.paymentMethod);
+    data.append("bank_acc_number", formData.bankAccountNumber);
+  
+    if (formData.supportingDocuments) {
+      data.append("supporting_document", formData.supportingDocuments[0]);
+    }
+  
+    if (formData.incidentPhotos) {
+      for (let i = 0; i < formData.incidentPhotos.length; i++) {
+        data.append("incident_photo", formData.incidentPhotos[i]);
+      }
+    }
+  
+    try {
+      const response = await fetch("http://test-env.eba-y8shitmz.ap-south-1.elasticbeanstalk.com/claim", {
+        method: "POST",
+        body: data,
+      });
+  
+      const result = await response.json(); // Move this inside the success block
+  
+      if (!response.ok) {
+        console.error('Error response:', result); // Now `result` is defined
+        throw new Error(result.message || 'Network response was not ok');
+      }
+  
+      console.log(result);
       toast({
-        title: "Your claim is now being monitored",
-        description: "We will review it and reach out to you as soon as possible.",
-        status: "info",
-        duration: 5000,
+        title: "Claim submitted successfully",
+        status: "success",
+        duration: 3000,
         isClosable: true,
       });
-      navigate("/");
-    }, 1000);
+  
+      setTimeout(() => {
+        toast({
+          title: "Your claim is now being monitored",
+          description: "We will review it and reach out to you as soon as possible.",
+          status: "info",
+          duration: 5000,
+          isClosable: true,
+        });
+        navigate("/");
+      }, 1000);
+    } catch (error) {
+      console.error('Error:', error);
+      toast({
+        title: "Submission failed",
+        description: "There was an error submitting your claim.",
+        status: "error",
+        duration: 3000,
+        isClosable: true,
+      });
+    }
   };
+  
 
   return (
     <Box maxWidth="1000px" margin="auto" mt={8} px={4}>
@@ -106,7 +153,7 @@ function InsuranceClaimForm() {
               <FormControl isRequired>
                 <FormLabel>Claim Type</FormLabel>
                 <Select name="claimType" placeholder="Select claim type" onChange={handleInputChange}>
-                  <option value="Health">Motor</option>
+                  <option value="Motor">Motor</option>
                   <option value="Health">Health</option>
                   <option value="Life">Life</option>
                   <option value="Property">Property</option>
@@ -147,7 +194,7 @@ function InsuranceClaimForm() {
                 <FormLabel>Payment Method</FormLabel>
                 <Select name="paymentMethod" placeholder="Select payment method" onChange={handleInputChange}>
                   <option value="Bank Transfer">Bank Transfer</option>
-                  <option value="Credit Card">UPI</option>
+                  <option value="UPI">UPI</option>
                 </Select>
               </FormControl>
             </GridItem>

@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import {
   Box,
   Flex,
@@ -43,53 +43,54 @@ import Dashboard from "../components/Dashboard";
 const dummyPhoto = "https://via.placeholder.com/50";
 const ITEMS_PER_PAGE = 5;
 
-const initialClaims = [
-  { 
-    id: 1, 
-    fullName: "John Doe", 
-    email: "john@example.com", 
-    claimAmount: 5000, 
-    claimType: "Health",
-    incidentDate: "2023-05-01",
-    policyNumber: "POL123456",
-    status: "Active"
-  },
-  { 
-    id: 2, 
-    fullName: "Jane Smith", 
-    email: "jane@example.com", 
-    claimAmount: 7500, 
-    claimType: "Life",
-    incidentDate: "2023-05-02",
-    policyNumber: "POL789012",
-    status: "Active"
-  },
-  { 
-    id: 3, 
-    fullName: "Bob Johnson", 
-    email: "bob@example.com", 
-    claimAmount: 3000, 
-    claimType: "Property",
-    incidentDate: "2023-05-03",
-    policyNumber: "POL345678",
-    status: "Flagged"
-  },
-  // Add more dummy data as needed
-];
-
 const AdminDashboard = () => {
   const [activeTab, setActiveTab] = useState("dashboard");
   const [currentPage, setCurrentPage] = useState(1);
   const [viewModalOpen, setViewModalOpen] = useState(false);
   const [selectedClaim, setSelectedClaim] = useState(null);
-  const [claims, setClaims] = useState(initialClaims);
-
+  const [claims, setClaims] = useState([]);
+  
   const borderColor = useColorModeValue("blue.400", "blue.600");
   const bgColor = useColorModeValue("white", "gray.700");
   const hoverBgColor = useColorModeValue("gray.100", "gray.600");
 
-  const flaggedClaims = claims.filter(claim => claim.status === "Flagged");
-  const unflaggedClaims = claims.filter(claim => claim.status !== "Flagged");
+  // Fetch claims from API
+  useEffect(() => {
+    const fetchClaims = async () => {
+      try {
+        const response = await fetch(
+          "http://test-env.eba-y8shitmz.ap-south-1.elasticbeanstalk.com/claim"
+        );
+        const data = await response.json();
+
+        // Mapping API response to the current claim structure
+        const formattedClaims = data.claims.map((claim) => ({
+          id: claim.id,
+          fullName: claim.full_name,
+          email: claim.email_address,
+          claimAmount: parseFloat(claim.claim_amount),
+          claimType: claim.claim_type,
+          incidentDate: claim.incident_date,
+          policyNumber: claim.policy_number,
+          status: claim.prediction === "Fraudulent" ? "Flagged" : "Active",
+          contactNumber: claim.contact_number,
+          insurerName: claim.issuer_name,
+          paymentMethod: claim.payment_method,
+          bankAccountNumber: claim.bank_acc_number,
+          incidentDescription: claim.incident_description,
+        }));
+
+        setClaims(formattedClaims);
+      } catch (error) {
+        toast.error("Failed to fetch claims");
+      }
+    };
+
+    fetchClaims();
+  }, []);
+
+  const flaggedClaims = claims.filter((claim) => claim.status === "Flagged");
+  const unflaggedClaims = claims.filter((claim) => claim.status !== "Flagged");
 
   const totalPages = Math.ceil(unflaggedClaims.length / ITEMS_PER_PAGE);
   const indexOfLastClaim = currentPage * ITEMS_PER_PAGE;
@@ -114,20 +115,48 @@ const AdminDashboard = () => {
 
   const downloadClaimDetails = (claim) => {
     const content = `Claim Details for ${claim.fullName}\n\nEmail: ${claim.email}\nClaim Amount: $${claim.claimAmount}`;
-    const blob = new Blob([content], { type: 'text/plain' });
+    const blob = new Blob([content], { type: "text/plain" });
     const url = URL.createObjectURL(blob);
-    const a = document.createElement('a');
+    const a = document.createElement("a");
     a.href = url;
     a.download = `claim_${claim.id}.txt`;
     a.click();
     URL.revokeObjectURL(url);
   };
+  const toggleFlag = async (claimId) => {
+    // Find the claim to be updated
+    const claimToUpdate = claims.find((claim) => claim.id === claimId);
+  
+    try {
 
-  const toggleFlag = (claimId) => {
-    setClaims(claims.map(claim => 
-      claim.id === claimId ? { ...claim, status: claim.status === "Flagged" ? "Active" : "Flagged" } : claim
-    ));
+      const response = await fetch(`http://test-env.eba-y8shitmz.ap-south-1.elasticbeanstalk.com/claims/update/${claimId}`, {
+        method: 'PATCH',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          status: claimToUpdate.status === "Flagged" ? "Active" : "Flagged"
+        }),
+      });
+  
+
+      if (response.ok) {
+   
+        setClaims(
+          claims.map((claim) =>
+            claim.id === claimId
+              ? { ...claim, status: claim.status === "Flagged" ? "Active" : "Flagged" }
+              : claim
+          )
+        );
+      } else {
+        console.error("Failed to update claim status.");
+      }
+    } catch (error) {
+      console.error("Error updating claim:", error);
+    }
   };
+  
 
   const renderClaimList = (claimsList) => (
     <Table variant="simple" colorScheme="blue">
@@ -160,7 +189,7 @@ const AdminDashboard = () => {
               </HStack>
             </Td>
             <Td>{claim.claimType}</Td>
-            <Td>${claim.claimAmount}</Td>
+            <Td>₹{claim.claimAmount}</Td>
             <Td>
               <Menu>
                 <MenuButton
@@ -173,11 +202,14 @@ const AdminDashboard = () => {
                   <MenuItem icon={<ViewIcon />} onClick={() => openViewModal(claim)}>
                     View
                   </MenuItem>
-                  <MenuItem icon={<DownloadIcon />} onClick={() => downloadClaimDetails(claim)}>
+                  <MenuItem
+                    icon={<DownloadIcon />}
+                    onClick={() => downloadClaimDetails(claim)}
+                  >
                     Download
                   </MenuItem>
                   <MenuItem icon={<WarningIcon />} onClick={() => toggleFlag(claim.id)}>
-                    {claim.status === "Flagged" ? 'Unflag' : 'Flag'}
+                    {claim.status === "Flagged" ? "Unflag" : "Flag"}
                   </MenuItem>
                 </MenuList>
               </Menu>
@@ -212,13 +244,17 @@ const AdminDashboard = () => {
           <>
             {flaggedClaims.length > 0 && (
               <Box mb={4}>
-                <Text fontSize="xl" fontWeight="bold" mb={2}>Flagged Claims</Text>
+                <Text fontSize="xl" fontWeight="bold" mb={2}>
+                  Flagged Claims
+                </Text>
                 {renderClaimList(flaggedClaims)}
               </Box>
             )}
-            <Text fontSize="xl" fontWeight="bold" mb={2}>All Claims</Text>
+            <Text fontSize="xl" fontWeight="bold" mb={2}>
+              All Claims
+            </Text>
             {renderClaimList(currentClaims)}
-            
+
             {/* Pagination */}
             <Box mt={4} textAlign="center">
               <IconButton
@@ -241,11 +277,13 @@ const AdminDashboard = () => {
         )}
       </Stack>
 
-      {/* Improved View Modal */}
+      {/* View Modal */}
       <Modal isOpen={viewModalOpen} onClose={closeViewModal} size="lg">
         <ModalOverlay />
         <ModalContent>
-          <ModalHeader bg="blue.500" color="white" borderTopRadius="md">Claim Details</ModalHeader>
+          <ModalHeader bg="blue.500" color="white" borderTopRadius="md">
+            Claim Details
+          </ModalHeader>
           <ModalCloseButton color="white" />
           <ModalBody py={6}>
             {selectedClaim && (
@@ -253,46 +291,41 @@ const AdminDashboard = () => {
                 <Text fontSize="xl" fontWeight="bold">Personal Information</Text>
                 <HStack justify="space-between">
                   <Text fontWeight="bold">Full Name:</Text>
+                 
                   <Text>{selectedClaim.fullName}</Text>
+                </HStack>
+                <HStack justify="space-between">
+                  <Text fontWeight="bold">Email:</Text>
+                  <Text>{selectedClaim.email}</Text>
                 </HStack>
                 <HStack justify="space-between">
                   <Text fontWeight="bold">Contact Number:</Text>
                   <Text>{selectedClaim.contactNumber}</Text>
                 </HStack>
                 <HStack justify="space-between">
-                  <Text fontWeight="bold">Email:</Text>
-                  <Text>{selectedClaim.email}</Text>
+                  <Text fontWeight="bold">Policy Number:</Text>
+                  <Text>{selectedClaim.policyNumber}</Text>
                 </HStack>
 
-                <Text fontSize="xl" fontWeight="bold">Incident Information</Text>
-                <HStack justify="space-between">
-                  <Text fontWeight="bold">Incident Date:</Text>
-                  <Text>{selectedClaim.incidentDate}</Text>
-                </HStack>
+                <Text fontSize="xl" fontWeight="bold" mt={4}>Claim Information</Text>
                 <HStack justify="space-between">
                   <Text fontWeight="bold">Claim Type:</Text>
                   <Text>{selectedClaim.claimType}</Text>
                 </HStack>
                 <HStack justify="space-between">
                   <Text fontWeight="bold">Claim Amount:</Text>
-                  <Text fontWeight="semibold" color="green.500">${selectedClaim.claimAmount}</Text>
-                </HStack>
-                <VStack align="stretch">
-                  <Text fontWeight="bold">Incident Description:</Text>
-                  <Text>{selectedClaim.incidentDescription}</Text>
-                </VStack>
-
-                <Text fontSize="xl" fontWeight="bold">Policy Information</Text>
-                <HStack justify="space-between">
-                  <Text fontWeight="bold">Policy Number:</Text>
-                  <Text>{selectedClaim.policyNumber}</Text>
+                  <Text>₹{selectedClaim.claimAmount}</Text>
                 </HStack>
                 <HStack justify="space-between">
-                  <Text fontWeight="bold">Insurer Name:</Text>
-                  <Text>{selectedClaim.insurerName}</Text>
+                  <Text fontWeight="bold">Incident Date:</Text>
+                  <Text>{selectedClaim.incidentDate}</Text>
+                </HStack>
+                <HStack justify="space-between">
+                  <Text fontWeight="bold">Status:</Text>
+                  <Text>{selectedClaim.status}</Text>
                 </HStack>
 
-                <Text fontSize="xl" fontWeight="bold">Payment Information</Text>
+                <Text fontSize="xl" fontWeight="bold" mt={4}>Payment Details</Text>
                 <HStack justify="space-between">
                   <Text fontWeight="bold">Payment Method:</Text>
                   <Text>{selectedClaim.paymentMethod}</Text>
@@ -302,13 +335,8 @@ const AdminDashboard = () => {
                   <Text>{selectedClaim.bankAccountNumber}</Text>
                 </HStack>
 
-                <Text fontSize="xl" fontWeight="bold">Status</Text>
-                <HStack justify="space-between">
-                  <Text fontWeight="bold">Current Status:</Text>
-                  <Badge colorScheme={selectedClaim.status === "Flagged" ? "red" : "green"}>
-                    {selectedClaim.status}
-                  </Badge>
-                </HStack>
+                <Text fontSize="xl" fontWeight="bold" mt={4}>Incident Description</Text>
+                <Text>{selectedClaim.incidentDescription}</Text>
               </VStack>
             )}
           </ModalBody>
