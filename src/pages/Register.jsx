@@ -72,7 +72,7 @@ function InsuranceClaimForm() {
     }
   
     try {
-      const response = await fetch("http://test-env.eba-y8shitmz.ap-south-1.elasticbeanstalk.com/claim", {
+      const response = await fetch("https://test-env.eba-y8shitmz.ap-south-1.elasticbeanstalk.com/claim", {
         method: "POST",
         body: data,
       });

@@ -58,7 +58,7 @@ const AdminDashboard = () => {
     const fetchClaims = async () => {
       try {
         const response = await fetch(
-          "http://test-env.eba-y8shitmz.ap-south-1.elasticbeanstalk.com/claim"
+          "https://test-env.eba-y8shitmz.ap-south-1.elasticbeanstalk.com/claim"
         );
         const data = await response.json();
 
@@ -128,7 +128,7 @@ const AdminDashboard = () => {
   
     try {
 
-      const response = await fetch(`http://test-env.eba-y8shitmz.ap-south-1.elasticbeanstalk.com/claims/update/${claimId}`, {
+      const response = await fetch(`https://test-env.eba-y8shitmz.ap-south-1.elasticbeanstalk.com/claims/update/${claimId}`, {
         method: 'PATCH',
         headers: {
           'Content-Type': 'application/json',
