@@ -1,4 +1,11 @@
 import React from "react";
+import AdminPanelSettingsOutlinedIcon from "@mui/icons-material/AdminPanelSettingsOutlined";
+import SecurityOutlinedIcon from "@mui/icons-material/SecurityOutlined";
+import LockOpenOutlinedIcon from "@mui/icons-material/LockOpenOutlined";
+import { useTheme } from "@mui/material/styles";
+import { Box, Typography } from "@mui/material";
+import Header from "../../components/Header";
+import { tokens } from "../../theme";
 
 const Team = () => {
   const theme = useTheme();
@@ -95,6 +102,14 @@ const Team = () => {
       >
         <DataGrid checkboxSelection rows={mockDataTeam} columns={columns} />
       </Box> */}
+      <iframe
+        title="data_saving"
+        width="1140"
+        height="541.25"
+        src="https://app.powerbi.com/reportEmbed?reportId=7422e9ce-6923-4e5e-8009-c289260836a1&autoAuth=true&ctid=d1f14348-f1b5-4a09-ac99-7ebf213cbc81"
+        frameborder="0"
+        allowFullScreen="true"
+      ></iframe>
     </Box>
   );
 };
