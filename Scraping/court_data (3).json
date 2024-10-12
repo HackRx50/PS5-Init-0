@@ -1,0 +1,335 @@
+{
+  "Andaman and Nicobar": {
+    "id": "28",
+    "districts": {
+      "Select district": {
+        "id": "0",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Andhra Pradesh": {
+    "id": "2",
+    "districts": {
+      "Select district": {
+        "id": "0",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Arunachal Pradesh": {
+    "id": "36",
+    "districts": {
+      "Select district": {
+        "id": "0",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Assam": {
+    "id": "6",
+    "districts": {
+      "Select district": {
+        "id": "0",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Bihar": {
+    "id": "8",
+    "districts": {
+      "Select district": {
+        "id": "0",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Chandigarh": {
+    "id": "27",
+    "districts": {
+      "Select district": {
+        "id": "0",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Chhattisgarh": {
+    "id": "18",
+    "districts": {
+      "Select district": {
+        "id": "0",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Delhi": {
+    "id": "26",
+    "districts": {
+      "Select district": {
+        "id": "0",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Diu and Daman": {
+    "id": "31",
+    "districts": {
+      "Select district": {
+        "id": "0",
+        "court_complexes": {}
+      }
+    }
+  },
+  "DNH at Silvasa": {
+    "id": "32",
+    "districts": {
+      "Select district": {
+        "id": "0",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Goa": {
+    "id": "30",
+    "districts": {
+      "Select district": {
+        "id": "0",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Gujarat": {
+    "id": "17",
+    "districts": {
+      "Select district": {
+        "id": "0",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Haryana": {
+    "id": "14",
+    "districts": {
+      "Select district": {
+        "id": "0",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Himachal Pradesh": {
+    "id": "5",
+    "districts": {
+      "Select district": {
+        "id": "0",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Jammu and Kashmir": {
+    "id": "12",
+    "districts": {
+      "Select district": {
+        "id": "0",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Jharkhand": {
+    "id": "7",
+    "districts": {
+      "Select district": {
+        "id": "0",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Karnataka": {
+    "id": "3",
+    "districts": {
+      "Select district": {
+        "id": "0",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Kerala": {
+    "id": "4",
+    "districts": {
+      "Select district": {
+        "id": "0",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Ladakh": {
+    "id": "33",
+    "districts": {
+      "Select district": {
+        "id": "0",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Lakshadweep": {
+    "id": "37",
+    "districts": {
+      "Select district": {
+        "id": "0",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Madhya Pradesh": {
+    "id": "23",
+    "districts": {
+      "Select district": {
+        "id": "0",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Maharashtra": {
+    "id": "1",
+    "districts": {
+      "Select district": {
+        "id": "0",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Manipur": {
+    "id": "25",
+    "districts": {
+      "Select district": {
+        "id": "0",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Meghalaya": {
+    "id": "21",
+    "districts": {
+      "Select district": {
+        "id": "0",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Mizoram": {
+    "id": "19",
+    "districts": {
+      "Select district": {
+        "id": "0",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Nagaland": {
+    "id": "34",
+    "districts": {
+      "Select district": {
+        "id": "0",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Odisha": {
+    "id": "11",
+    "districts": {
+      "Select district": {
+        "id": "0",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Puducherry": {
+    "id": "35",
+    "districts": {
+      "Select district": {
+        "id": "0",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Punjab": {
+    "id": "22",
+    "districts": {
+      "Select district": {
+        "id": "0",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Rajasthan": {
+    "id": "9",
+    "districts": {
+      "Select district": {
+        "id": "0",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Sikkim": {
+    "id": "24",
+    "districts": {
+      "Select district": {
+        "id": "0",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Tamil Nadu": {
+    "id": "10",
+    "districts": {
+      "Select district": {
+        "id": "0",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Telangana": {
+    "id": "29",
+    "districts": {
+      "Select district": {
+        "id": "0",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Tripura": {
+    "id": "20",
+    "districts": {
+      "Select district": {
+        "id": "0",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Uttarakhand": {
+    "id": "15",
+    "districts": {
+      "Select district": {
+        "id": "0",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Uttar Pradesh": {
+    "id": "13",
+    "districts": {
+      "Select district": {
+        "id": "0",
+        "court_complexes": {}
+      }
+    }
+  },
+  "West Bengal": {
+    "id": "16",
+    "districts": {
+      "Select district": {
+        "id": "0",
+        "court_complexes": {}
+      }
+    }
+  }
+}
