@@ -1,0 +1,3591 @@
+{
+  "Andaman and Nicobar": {
+    "id": "28",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Andhra Pradesh": {
+    "id": "2",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Arunachal Pradesh": {
+    "id": "36",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Assam": {
+    "id": "6",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Bihar": {
+    "id": "8",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Chandigarh": {
+    "id": "27",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Chhattisgarh": {
+    "id": "18",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Delhi": {
+    "id": "26",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Diu and Daman": {
+    "id": "31",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "DNH at Silvasa": {
+    "id": "32",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Goa": {
+    "id": "30",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Gujarat": {
+    "id": "17",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Haryana": {
+    "id": "14",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Himachal Pradesh": {
+    "id": "5",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Jammu and Kashmir": {
+    "id": "12",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Jharkhand": {
+    "id": "7",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Karnataka": {
+    "id": "3",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Kerala": {
+    "id": "4",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Ladakh": {
+    "id": "33",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Lakshadweep": {
+    "id": "37",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Madhya Pradesh": {
+    "id": "23",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Maharashtra": {
+    "id": "1",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Manipur": {
+    "id": "25",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Meghalaya": {
+    "id": "21",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Mizoram": {
+    "id": "19",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Nagaland": {
+    "id": "34",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Odisha": {
+    "id": "11",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Puducherry": {
+    "id": "35",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Punjab": {
+    "id": "22",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Rajasthan": {
+    "id": "9",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Sikkim": {
+    "id": "24",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Tamil Nadu": {
+    "id": "10",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Telangana": {
+    "id": "29",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Tripura": {
+    "id": "20",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Uttarakhand": {
+    "id": "15",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Uttar Pradesh": {
+    "id": "13",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "West Bengal": {
+    "id": "16",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  }
+}

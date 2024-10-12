@@ -1,0 +1,3119 @@
+{
+  "Andaman and Nicobar": {
+    "id": "28",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Andhra Pradesh": {
+    "id": "2",
+    "districts": {
+      "Ananthapur": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Chittoor": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "East Godavari": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Guntur": {
+        "id": "5",
+        "court_complexes": {}
+      },
+      "Kadapa": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Krishna": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Kurnool": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "Nellore": {
+        "id": "15",
+        "court_complexes": {}
+      },
+      "Prakasham": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Srikakulam": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Visakapatnam": {
+        "id": "20",
+        "court_complexes": {}
+      },
+      "Vizianagaram": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "West Godavari": {
+        "id": "23",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Arunachal Pradesh": {
+    "id": "36",
+    "districts": {
+      "East Kameng": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "East Siang": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Leparada": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Lohit": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Lower Dibang Valley": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "Lower Subansiri": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Papum Pare": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Tawang": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Tirap": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Upper Siang": {
+        "id": "5",
+        "court_complexes": {}
+      },
+      "Upper Subansiri": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "West Kameng": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "West Siang": {
+        "id": "7",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Assam": {
+    "id": "6",
+    "districts": {
+      "Bajali": {
+        "id": "32",
+        "court_complexes": {}
+      },
+      "Baksa": {
+        "id": "27",
+        "court_complexes": {}
+      },
+      "Barpeta": {
+        "id": "20",
+        "court_complexes": {}
+      },
+      "Biswanath": {
+        "id": "33",
+        "court_complexes": {}
+      },
+      "Bongaigaon": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Cachar": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "Charaideo": {
+        "id": "29",
+        "court_complexes": {}
+      },
+      "Chirang": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "Darrang": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Dhemaji": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Dhubri": {
+        "id": "16",
+        "court_complexes": {}
+      },
+      "Dibrugarh": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Dima Hasao": {
+        "id": "28",
+        "court_complexes": {}
+      },
+      "Goalpara": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Golaghat": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Hailakandi": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "Hojai": {
+        "id": "30",
+        "court_complexes": {}
+      },
+      "Jorhat": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Kamrup": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Kamrup Metro": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Karbi Anglong": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Karimganj": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Kokrajhar": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "Lakhimpur": {
+        "id": "5",
+        "court_complexes": {}
+      },
+      "Majuli": {
+        "id": "34",
+        "court_complexes": {}
+      },
+      "Morigaon": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Nagaon": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "Nalbari": {
+        "id": "15",
+        "court_complexes": {}
+      },
+      "Sivasagar": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Sonitpur": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "South Salmara": {
+        "id": "31",
+        "court_complexes": {}
+      },
+      "Tinsukia": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Udalguri": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "West Karbi Anglong": {
+        "id": "35",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Bihar": {
+    "id": "8",
+    "districts": {
+      "Araria": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Aurangabad": {
+        "id": "16",
+        "court_complexes": {}
+      },
+      "Banka": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Begusarai": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Bettiah": {
+        "id": "28",
+        "court_complexes": {}
+      },
+      "Bhagalpur": {
+        "id": "34",
+        "court_complexes": {}
+      },
+      "Bhojpur": {
+        "id": "33",
+        "court_complexes": {}
+      },
+      "Buxar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Darbhanga": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Gaya": {
+        "id": "35",
+        "court_complexes": {}
+      },
+      "Gopalganj": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Jamui": {
+        "id": "15",
+        "court_complexes": {}
+      },
+      "Jehanabad": {
+        "id": "36",
+        "court_complexes": {}
+      },
+      "Kaimur at Bhabhua": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Katihar": {
+        "id": "5",
+        "court_complexes": {}
+      },
+      "Khagaria": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Kishanganj": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "Lakhisarai": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Madhepura": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Madhubani": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Motihari": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "Munger": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Muzaffarpur": {
+        "id": "38",
+        "court_complexes": {}
+      },
+      "Nalanda": {
+        "id": "30",
+        "court_complexes": {}
+      },
+      "Nawada": {
+        "id": "27",
+        "court_complexes": {}
+      },
+      "Patna": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Purnea": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Rohtas Sasaram": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "Saharsa": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "Samastipur": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Saran at Chapra": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Sheikhpura": {
+        "id": "20",
+        "court_complexes": {}
+      },
+      "Sheohar": {
+        "id": "37",
+        "court_complexes": {}
+      },
+      "Sitamarhi": {
+        "id": "31",
+        "court_complexes": {}
+      },
+      "Siwan": {
+        "id": "29",
+        "court_complexes": {}
+      },
+      "Supaul": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "Vaishali": {
+        "id": "39",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Chandigarh": {
+    "id": "27",
+    "districts": {
+      "Chandigarh": {
+        "id": "1",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Chhattisgarh": {
+    "id": "18",
+    "districts": {
+      "Balod": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Balodabazar": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Balrampur Ramanujganj": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "Bastar": {
+        "id": "15",
+        "court_complexes": {}
+      },
+      "Bemetara": {
+        "id": "20",
+        "court_complexes": {}
+      },
+      "Bilaspur": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Dantewada": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Dhamtari": {
+        "id": "5",
+        "court_complexes": {}
+      },
+      "Durg": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Janjgir": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Jashpur": {
+        "id": "16",
+        "court_complexes": {}
+      },
+      "Kanker": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "Kawardha": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Kondagaon": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "Korba": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Koriya": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Mahasamund": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Mungeli": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Raigarh": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Raipur": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Rajnandgaon": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "Surajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "Surguja at Ambikapur": {
+        "id": "4",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Delhi": {
+    "id": "26",
+    "districts": {
+      "Central": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "East": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "New Delhi": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "North": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "North East": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "North West": {
+        "id": "5",
+        "court_complexes": {}
+      },
+      "Shahdara": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "South": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South East": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "South West": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "West": {
+        "id": "9",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Diu and Daman": {
+    "id": "31",
+    "districts": {
+      "Daman": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Diu": {
+        "id": "1",
+        "court_complexes": {}
+      }
+    }
+  },
+  "DNH at Silvasa": {
+    "id": "32",
+    "districts": {
+      "Silvassa": {
+        "id": "1",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Goa": {
+    "id": "30",
+    "districts": {
+      "North Goa": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "South Goa": {
+        "id": "2",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Gujarat": {
+    "id": "17",
+    "districts": {
+      "Ahmedabad": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "Amreli": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Anand": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Aravalli at Modasa": {
+        "id": "38",
+        "court_complexes": {}
+      },
+      "Banaskanth at Palanpur": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Bharuch": {
+        "id": "20",
+        "court_complexes": {}
+      },
+      "Bhavnagar": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "BOTAD": {
+        "id": "43",
+        "court_complexes": {}
+      },
+      "Chhota Udepur": {
+        "id": "41",
+        "court_complexes": {}
+      },
+      "Dahod": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "Devbhumi Dwarka at Khambhaliya": {
+        "id": "40",
+        "court_complexes": {}
+      },
+      "GANDHINAGAR": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Gir Somnath at Veraval": {
+        "id": "37",
+        "court_complexes": {}
+      },
+      "Jamnagar": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Junagadh": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "kachchh at Bhuj": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Kheda at Nadiad": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "Mahesana": {
+        "id": "15",
+        "court_complexes": {}
+      },
+      "Mahisagar at Lunawada": {
+        "id": "42",
+        "court_complexes": {}
+      },
+      "MORBI": {
+        "id": "39",
+        "court_complexes": {}
+      },
+      "Narmada": {
+        "id": "33",
+        "court_complexes": {}
+      },
+      "Navsari": {
+        "id": "32",
+        "court_complexes": {}
+      },
+      "Panchmahal at Godhra": {
+        "id": "27",
+        "court_complexes": {}
+      },
+      "Patan": {
+        "id": "28",
+        "court_complexes": {}
+      },
+      "Porbandar": {
+        "id": "36",
+        "court_complexes": {}
+      },
+      "RAJKOT": {
+        "id": "16",
+        "court_complexes": {}
+      },
+      "Sabarkantha at Himmatnagar": {
+        "id": "29",
+        "court_complexes": {}
+      },
+      "SURAT": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Surendranagar": {
+        "id": "30",
+        "court_complexes": {}
+      },
+      "Tapi": {
+        "id": "34",
+        "court_complexes": {}
+      },
+      "Vadodara": {
+        "id": "31",
+        "court_complexes": {}
+      },
+      "Valsad": {
+        "id": "35",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Haryana": {
+    "id": "14",
+    "districts": {
+      "Ambala": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Bhiwani": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Faridabad": {
+        "id": "5",
+        "court_complexes": {}
+      },
+      "Fatehabad": {
+        "id": "15",
+        "court_complexes": {}
+      },
+      "Gurugram": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Hisar": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Jhajjar": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Jind": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Kaithal": {
+        "id": "16",
+        "court_complexes": {}
+      },
+      "Karnal": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Kurukshetra": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "Narnaul": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Nuh": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Palwal": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Panchkula": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Panipat": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Rewari": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Rohtak": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Sirsa": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Sonepat": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "Yamunanagar": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Himachal Pradesh": {
+    "id": "5",
+    "districts": {
+      "Bilaspur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Chamba": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Hamirpur": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Kangra": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Kinnaur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Kullu": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "Mandi": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Shimla": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Sirmaur": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Solan": {
+        "id": "5",
+        "court_complexes": {}
+      },
+      "Una": {
+        "id": "4",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Jammu and Kashmir": {
+    "id": "12",
+    "districts": {
+      "Anantnag": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Bandipora": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Baramulla": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Budgam": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Doda": {
+        "id": "15",
+        "court_complexes": {}
+      },
+      "Ganderbal": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Jammu": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Kathua": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Kishtwar": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "Kulgam": {
+        "id": "20",
+        "court_complexes": {}
+      },
+      "Kupwara": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Poonch": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Pulwama": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Rajouri": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "Ramban": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Reasi": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Samba": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "Shopian": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "Srinagar": {
+        "id": "5",
+        "court_complexes": {}
+      },
+      "Udhampur": {
+        "id": "2",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Jharkhand": {
+    "id": "7",
+    "districts": {
+      "Bokaro": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Chatra": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "Daltonganj": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Deoghar": {
+        "id": "16",
+        "court_complexes": {}
+      },
+      "Dhanbad": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Dumka": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "East Singhbhum at Jamshedpur": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Garhwa": {
+        "id": "20",
+        "court_complexes": {}
+      },
+      "Giridih": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "Godda": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Gumla": {
+        "id": "5",
+        "court_complexes": {}
+      },
+      "Hazaribagh": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Jamtara": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "KHUNTI": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Koderma": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Latehar": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Lohardaga": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Pakur": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "RAMGARH": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Ranchi": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "Sahibganj": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "Seraikella": {
+        "id": "15",
+        "court_complexes": {}
+      },
+      "Simdega": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "West Singhbhum at Chaibasa": {
+        "id": "4",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Karnataka": {
+    "id": "3",
+    "districts": {
+      "BAGALKOT": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "BALLARI": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "BELAGAVI": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "BENGALURU": {
+        "id": "20",
+        "court_complexes": {}
+      },
+      "BENGALURU RURAL": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "BIDAR": {
+        "id": "5",
+        "court_complexes": {}
+      },
+      "CHAMRAJNAGAR": {
+        "id": "27",
+        "court_complexes": {}
+      },
+      "CHIKKABALLAPUR": {
+        "id": "29",
+        "court_complexes": {}
+      },
+      "CHIKKAMAGALURU": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "CHITRADURGA": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "DAKSHINA KANNADA": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "DAVANGERE": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "DHARWAD": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "GADAG": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "HASSAN": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "HAVERI": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "KALABURAGI": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "KODAGU": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "KOLAR": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "KOPPAL": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "MANDYA": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "MYSURU": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "RAICHUR": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "RAMANAGARA": {
+        "id": "28",
+        "court_complexes": {}
+      },
+      "SHIVAMOGGA": {
+        "id": "15",
+        "court_complexes": {}
+      },
+      "TUMAKURU": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "UDUPI": {
+        "id": "16",
+        "court_complexes": {}
+      },
+      "UTTARA KANNADA": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "VIJAYANAGAR": {
+        "id": "31",
+        "court_complexes": {}
+      },
+      "VIJAYAPURA": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "YADGIR": {
+        "id": "30",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Kerala": {
+    "id": "4",
+    "districts": {
+      "Alappuzha": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Ernakulam": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Idukki": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Kannur": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Kasaragod": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Kollam": {
+        "id": "15",
+        "court_complexes": {}
+      },
+      "Kottayam": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "Kozhikode": {
+        "id": "5",
+        "court_complexes": {}
+      },
+      "Lakshadweep": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "Malappuram": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Palakkad": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Pathanamthitta": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Thiruvananthapuram": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Thrissur": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Wayanad": {
+        "id": "16",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Ladakh": {
+    "id": "33",
+    "districts": {
+      "Kargil": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Leh": {
+        "id": "2",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Lakshadweep": {
+    "id": "37",
+    "districts": {
+      "Lakshadweep": {
+        "id": "1",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Madhya Pradesh": {
+    "id": "23",
+    "districts": {
+      "Agar Malwa": {
+        "id": "51",
+        "court_complexes": {}
+      },
+      "Alirajpur": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Anuppur": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "Ashoknagr": {
+        "id": "48",
+        "court_complexes": {}
+      },
+      "Balaghat": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Barwani": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Betul": {
+        "id": "37",
+        "court_complexes": {}
+      },
+      "Bhind": {
+        "id": "29",
+        "court_complexes": {}
+      },
+      "Bhopal": {
+        "id": "50",
+        "court_complexes": {}
+      },
+      "Burhanpur": {
+        "id": "49",
+        "court_complexes": {}
+      },
+      "Chhatarpur": {
+        "id": "39",
+        "court_complexes": {}
+      },
+      "Chhindwara": {
+        "id": "20",
+        "court_complexes": {}
+      },
+      "Damoh": {
+        "id": "27",
+        "court_complexes": {}
+      },
+      "Datia": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "Dewas": {
+        "id": "40",
+        "court_complexes": {}
+      },
+      "Dhar": {
+        "id": "38",
+        "court_complexes": {}
+      },
+      "Dindori": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Guna": {
+        "id": "30",
+        "court_complexes": {}
+      },
+      "Gwalior": {
+        "id": "44",
+        "court_complexes": {}
+      },
+      "Harda": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Hoshangabad": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Indore": {
+        "id": "47",
+        "court_complexes": {}
+      },
+      "Jabalpur": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Jhabua": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Katni": {
+        "id": "34",
+        "court_complexes": {}
+      },
+      "Khandwa": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "Mandla": {
+        "id": "41",
+        "court_complexes": {}
+      },
+      "Mandleshwar": {
+        "id": "16",
+        "court_complexes": {}
+      },
+      "Mandsaur": {
+        "id": "35",
+        "court_complexes": {}
+      },
+      "Morena": {
+        "id": "15",
+        "court_complexes": {}
+      },
+      "Narsinghpur": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Neemuch": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Panna": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Raisen": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Rajgarh": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Ratlam": {
+        "id": "42",
+        "court_complexes": {}
+      },
+      "Rewa": {
+        "id": "46",
+        "court_complexes": {}
+      },
+      "Sagar": {
+        "id": "43",
+        "court_complexes": {}
+      },
+      "Satna": {
+        "id": "32",
+        "court_complexes": {}
+      },
+      "Sehore": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "Seoni": {
+        "id": "33",
+        "court_complexes": {}
+      },
+      "Shahdol": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Shajapur": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Sheopur": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Shivpuri": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Sidhi": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "Singrauli": {
+        "id": "31",
+        "court_complexes": {}
+      },
+      "Tikamgarh": {
+        "id": "36",
+        "court_complexes": {}
+      },
+      "Ujjain": {
+        "id": "45",
+        "court_complexes": {}
+      },
+      "Umaria": {
+        "id": "5",
+        "court_complexes": {}
+      },
+      "Vidisha": {
+        "id": "28",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Maharashtra": {
+    "id": "1",
+    "districts": {
+      "Ahmednagar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Akola": {
+        "id": "5",
+        "court_complexes": {}
+      },
+      "Amravati": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Aurangabad": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Beed": {
+        "id": "27",
+        "court_complexes": {}
+      },
+      "Bhandara": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "Buldhana": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Chandrapur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "Dhule": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Gadchiroli": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Gondia": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Hingoli": {
+        "id": "16",
+        "court_complexes": {}
+      },
+      "Jalgaon": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Jalna": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Kolhapur": {
+        "id": "34",
+        "court_complexes": {}
+      },
+      "Latur": {
+        "id": "28",
+        "court_complexes": {}
+      },
+      "Maharashtra Family Courts": {
+        "id": "42",
+        "court_complexes": {}
+      },
+      "Maharashtra Industrial and Lab": {
+        "id": "40",
+        "court_complexes": {}
+      },
+      "Maharashtra School Tribunals": {
+        "id": "43",
+        "court_complexes": {}
+      },
+      "Mah State Cooperative Appellat": {
+        "id": "41",
+        "court_complexes": {}
+      },
+      "Mumbai City Civil Court": {
+        "id": "37",
+        "court_complexes": {}
+      },
+      "Mumbai CMM Courts": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Mumbai Motor Accident Claims T": {
+        "id": "39",
+        "court_complexes": {}
+      },
+      "Mumbai Small Causes Court": {
+        "id": "38",
+        "court_complexes": {}
+      },
+      "Mumbai (Suburban)": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "Nagpur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Nanded": {
+        "id": "15",
+        "court_complexes": {}
+      },
+      "Nandurbar": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Nashik": {
+        "id": "20",
+        "court_complexes": {}
+      },
+      "Osmanabad": {
+        "id": "29",
+        "court_complexes": {}
+      },
+      "Parbhani": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Pune": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "Raigad": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Ratnagiri": {
+        "id": "32",
+        "court_complexes": {}
+      },
+      "Sangli": {
+        "id": "35",
+        "court_complexes": {}
+      },
+      "Satara": {
+        "id": "31",
+        "court_complexes": {}
+      },
+      "Sindhudurg": {
+        "id": "33",
+        "court_complexes": {}
+      },
+      "Solapur": {
+        "id": "30",
+        "court_complexes": {}
+      },
+      "Thane": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "Wardha": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Washim": {
+        "id": "36",
+        "court_complexes": {}
+      },
+      "Yavatmal": {
+        "id": "14",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Manipur": {
+    "id": "25",
+    "districts": {
+      "Bishnupur": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Chandel": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Churachandpur": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Imphal East": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Imphal West": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Senapati": {
+        "id": "5",
+        "court_complexes": {}
+      },
+      "Tamenglong": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Thoubal": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Ukhrul": {
+        "id": "7",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Meghalaya": {
+    "id": "21",
+    "districts": {
+      "Eastern West Khasi Hills": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "East Garo Hills": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "East Jaintia Hills": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "East Khasi Hills": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "KHADC Court": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "North Garo Hills": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "Ri Bhoi": {
+        "id": "5",
+        "court_complexes": {}
+      },
+      "South Garo Hills": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "South West Garo Hills": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "South West Khasi Hills": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "West Garo Hills": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "West Jaintia Hills": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "West Khasi Hills": {
+        "id": "7",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Mizoram": {
+    "id": "19",
+    "districts": {
+      "Aizawl": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Champhai": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Lunglei": {
+        "id": "2",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Nagaland": {
+    "id": "34",
+    "districts": {
+      "Dimapur": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Kiphire": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Kohima": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Longleng": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Mokokchung": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Mon": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Peren": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Phek": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Tuensang": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Wokha": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Zunheboto": {
+        "id": "5",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Odisha": {
+    "id": "11",
+    "districts": {
+      "Anugul": {
+        "id": "27",
+        "court_complexes": {}
+      },
+      "Balangir": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Balasore": {
+        "id": "5",
+        "court_complexes": {}
+      },
+      "Bargarh": {
+        "id": "29",
+        "court_complexes": {}
+      },
+      "Bhadrak": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Boudh": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Cuttack": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Deogarh": {
+        "id": "30",
+        "court_complexes": {}
+      },
+      "Dhenkanal": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Gajapati": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Ganjam": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jagatsinghpur": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Jajpur": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Jharsuguda": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Kalahandi": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "Kandhamal": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Kendrapada": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Keonjhar": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "Khurda": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Koraput": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Malkangiri": {
+        "id": "31",
+        "court_complexes": {}
+      },
+      "Mayurbhanj": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Nabarangpur": {
+        "id": "32",
+        "court_complexes": {}
+      },
+      "Nayagarh": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "Nuapada": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Puri": {
+        "id": "15",
+        "court_complexes": {}
+      },
+      "Rayagada": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "Sambalpur": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Sonepur": {
+        "id": "20",
+        "court_complexes": {}
+      },
+      "Sundargarh": {
+        "id": "16",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Puducherry": {
+    "id": "35",
+    "districts": {
+      "Karaikal": {
+        "id": "34",
+        "court_complexes": {}
+      },
+      "Mahe": {
+        "id": "35",
+        "court_complexes": {}
+      },
+      "Puducherry": {
+        "id": "28",
+        "court_complexes": {}
+      },
+      "Yanam": {
+        "id": "36",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Punjab": {
+    "id": "22",
+    "districts": {
+      "Amritsar": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Barnala": {
+        "id": "16",
+        "court_complexes": {}
+      },
+      "Bathinda": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Faridkot": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Fatehgarh Sahib": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Fazilka": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Ferozepur": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Gurdaspur": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "Hoshiarpur": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Jalandhar": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Kapurthala": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Ludhiana": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Mansa": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "Moga": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Mohali": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Pathankot": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "Patiala": {
+        "id": "5",
+        "court_complexes": {}
+      },
+      "Rupnagar": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Sangrur": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "SBS Nagar": {
+        "id": "15",
+        "court_complexes": {}
+      },
+      "Sri Muktsar Sahib": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Tarn Taran": {
+        "id": "23",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Rajasthan": {
+    "id": "9",
+    "districts": {
+      "Ajmer": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Alwar": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Balotra Barmer": {
+        "id": "27",
+        "court_complexes": {}
+      },
+      "Banswara": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "Baran": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Bharatpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "Bhilwara": {
+        "id": "31",
+        "court_complexes": {}
+      },
+      "Bikaner": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Bundi": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "Chittorgarh": {
+        "id": "30",
+        "court_complexes": {}
+      },
+      "Churu": {
+        "id": "33",
+        "court_complexes": {}
+      },
+      "Dausa": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Dholpur": {
+        "id": "34",
+        "court_complexes": {}
+      },
+      "Dungarpur": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Ganganagar": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Hanumangarh": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jaipur District": {
+        "id": "38",
+        "court_complexes": {}
+      },
+      "Jaipur Metro I": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jaipur Metro II": {
+        "id": "40",
+        "court_complexes": {}
+      },
+      "Jaisalmer": {
+        "id": "32",
+        "court_complexes": {}
+      },
+      "Jalore": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "Jhalawar": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "Jhunjhunu": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Jodhpur District": {
+        "id": "39",
+        "court_complexes": {}
+      },
+      "Jodhpur Metro": {
+        "id": "28",
+        "court_complexes": {}
+      },
+      "Karauli": {
+        "id": "29",
+        "court_complexes": {}
+      },
+      "Kota": {
+        "id": "20",
+        "court_complexes": {}
+      },
+      "Merta Nagaur": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Pali": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Pratapgarh": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Rajsamand": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Sawai Madhopur": {
+        "id": "36",
+        "court_complexes": {}
+      },
+      "Sikar": {
+        "id": "35",
+        "court_complexes": {}
+      },
+      "Sirohi": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Tonk": {
+        "id": "5",
+        "court_complexes": {}
+      },
+      "Udaipur": {
+        "id": "9",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Sikkim": {
+    "id": "24",
+    "districts": {
+      "Gangtok": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Gyalshing": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Mangan": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Namchi": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "PAKYONG": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "SORENG": {
+        "id": "7",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Tamil Nadu": {
+    "id": "10",
+    "districts": {
+      "Ariyalur": {
+        "id": "30",
+        "court_complexes": {}
+      },
+      "Chengalpattu": {
+        "id": "38",
+        "court_complexes": {}
+      },
+      "Chennai": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "Coimbatore": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Cuddalore": {
+        "id": "20",
+        "court_complexes": {}
+      },
+      "Dharmapuri": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Dindigul": {
+        "id": "27",
+        "court_complexes": {}
+      },
+      "Erode": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Kallakurichi": {
+        "id": "35",
+        "court_complexes": {}
+      },
+      "Kancheepuram": {
+        "id": "31",
+        "court_complexes": {}
+      },
+      "Kanniyakumari": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Karur": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Krishnagiri": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Madurai": {
+        "id": "15",
+        "court_complexes": {}
+      },
+      "Mayiladuthurai": {
+        "id": "34",
+        "court_complexes": {}
+      },
+      "Nagapattinam": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Namakkal": {
+        "id": "5",
+        "court_complexes": {}
+      },
+      "Perambalur": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Pudukkottai": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Ramanathapuram": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "Ranipet": {
+        "id": "39",
+        "court_complexes": {}
+      },
+      "Salem": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Sivagangai": {
+        "id": "29",
+        "court_complexes": {}
+      },
+      "Tenkasi": {
+        "id": "36",
+        "court_complexes": {}
+      },
+      "Thanjavur": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Theni": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "The Nilgiris": {
+        "id": "16",
+        "court_complexes": {}
+      },
+      "Thoothukudi": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Tiruchirappalli": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Tirunelveli": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Tirupathur": {
+        "id": "37",
+        "court_complexes": {}
+      },
+      "Tiruppur": {
+        "id": "33",
+        "court_complexes": {}
+      },
+      "Tiruvallur": {
+        "id": "32",
+        "court_complexes": {}
+      },
+      "Tiruvannamalai": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "Tiruvarur": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "Vellore": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Viluppuram": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "Virudhunagar": {
+        "id": "14",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Telangana": {
+    "id": "29",
+    "districts": {
+      "Adilabad": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Bhadradri Kothagudem": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "Hanumakonda": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Hyderabad": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Jagitial": {
+        "id": "15",
+        "court_complexes": {}
+      },
+      "Jangoan": {
+        "id": "16",
+        "court_complexes": {}
+      },
+      "Jayashankar Bhupalapally": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Jogulamba Gadwal": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Kamareddy": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Karimnagar": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Khammam": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Kumuram Bheem Asifabad": {
+        "id": "20",
+        "court_complexes": {}
+      },
+      "Mahabubabad": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "Mahabubnagar": {
+        "id": "5",
+        "court_complexes": {}
+      },
+      "Mancherial": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "Medak": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Medchal Malkajgiri": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Mulugu": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Nagarkurnool": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "Nalgonda": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Narayanpet": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Nirmal": {
+        "id": "27",
+        "court_complexes": {}
+      },
+      "Nizamabad": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Peddapalli": {
+        "id": "28",
+        "court_complexes": {}
+      },
+      "Rajanna Siricilla": {
+        "id": "29",
+        "court_complexes": {}
+      },
+      "Rangareddy": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Sangareddy": {
+        "id": "30",
+        "court_complexes": {}
+      },
+      "Siddipet": {
+        "id": "31",
+        "court_complexes": {}
+      },
+      "Suryapet": {
+        "id": "32",
+        "court_complexes": {}
+      },
+      "Vikarabad": {
+        "id": "33",
+        "court_complexes": {}
+      },
+      "Wanaparthy": {
+        "id": "34",
+        "court_complexes": {}
+      },
+      "Warangal": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "Yadadri Bhuvanagiri": {
+        "id": "35",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Tripura": {
+    "id": "20",
+    "districts": {
+      "Dhalai": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Gomati": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Khowai": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "North Tripura": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Sepahijala": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "South Tripura": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Unakoti": {
+        "id": "5",
+        "court_complexes": {}
+      },
+      "West Tripura": {
+        "id": "1",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Uttarakhand": {
+    "id": "15",
+    "districts": {
+      "Almora": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Bageshwar": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Chamoli": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Champawat": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "Dehradun": {
+        "id": "5",
+        "court_complexes": {}
+      },
+      "Haridwar": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Nainital": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Pauri Garhwal": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Pithoragarh": {
+        "id": "15",
+        "court_complexes": {}
+      },
+      "Rudraprayag": {
+        "id": "16",
+        "court_complexes": {}
+      },
+      "Tehri Garhwal": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Udham Singh Nagar": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Uttarkashi": {
+        "id": "6",
+        "court_complexes": {}
+      }
+    }
+  },
+  "Uttar Pradesh": {
+    "id": "13",
+    "districts": {
+      "Agra": {
+        "id": "30",
+        "court_complexes": {}
+      },
+      "Aligarh": {
+        "id": "43",
+        "court_complexes": {}
+      },
+      "Ambedkar Nagar": {
+        "id": "15",
+        "court_complexes": {}
+      },
+      "Amroha": {
+        "id": "35",
+        "court_complexes": {}
+      },
+      "Auraiya": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Ayodhya": {
+        "id": "49",
+        "court_complexes": {}
+      },
+      "Azamgarh": {
+        "id": "44",
+        "court_complexes": {}
+      },
+      "Baghpat": {
+        "id": "45",
+        "court_complexes": {}
+      },
+      "Bahraich": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Ballia": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "Balrampur": {
+        "id": "67",
+        "court_complexes": {}
+      },
+      "Banda": {
+        "id": "39",
+        "court_complexes": {}
+      },
+      "Barabanki": {
+        "id": "36",
+        "court_complexes": {}
+      },
+      "Bareilly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Basti": {
+        "id": "46",
+        "court_complexes": {}
+      },
+      "Bhadohi SR Nagar": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "Bijnor": {
+        "id": "47",
+        "court_complexes": {}
+      },
+      "Budaun": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Bulandshahr": {
+        "id": "48",
+        "court_complexes": {}
+      },
+      "Chandauli": {
+        "id": "75",
+        "court_complexes": {}
+      },
+      "Chitrakoot": {
+        "id": "5",
+        "court_complexes": {}
+      },
+      "Deoria": {
+        "id": "41",
+        "court_complexes": {}
+      },
+      "Etah": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "Etawah": {
+        "id": "33",
+        "court_complexes": {}
+      },
+      "Farrukhabad": {
+        "id": "63",
+        "court_complexes": {}
+      },
+      "Fatehpur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Firozabad": {
+        "id": "29",
+        "court_complexes": {}
+      },
+      "Gautam Buddha Nagar": {
+        "id": "20",
+        "court_complexes": {}
+      },
+      "Ghaziabad": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Ghazipur": {
+        "id": "28",
+        "court_complexes": {}
+      },
+      "Gonda": {
+        "id": "50",
+        "court_complexes": {}
+      },
+      "Gorakhpur": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Hamirpur": {
+        "id": "64",
+        "court_complexes": {}
+      },
+      "Hapur": {
+        "id": "73",
+        "court_complexes": {}
+      },
+      "Hardoi": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Hathras": {
+        "id": "65",
+        "court_complexes": {}
+      },
+      "Jalaun": {
+        "id": "70",
+        "court_complexes": {}
+      },
+      "Jaunpur": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Jhansi": {
+        "id": "66",
+        "court_complexes": {}
+      },
+      "Kannauj": {
+        "id": "69",
+        "court_complexes": {}
+      },
+      "Kanpur Dehat": {
+        "id": "51",
+        "court_complexes": {}
+      },
+      "Kanpur Nagar": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Kasganj": {
+        "id": "40",
+        "court_complexes": {}
+      },
+      "Kaushambi": {
+        "id": "37",
+        "court_complexes": {}
+      },
+      "Kushinagar": {
+        "id": "34",
+        "court_complexes": {}
+      },
+      "Lakhimpur Kheri": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "Lalitpur": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Lucknow": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Maharajganj": {
+        "id": "52",
+        "court_complexes": {}
+      },
+      "Mahoba": {
+        "id": "38",
+        "court_complexes": {}
+      },
+      "Mainpuri": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Mathura": {
+        "id": "53",
+        "court_complexes": {}
+      },
+      "Mau": {
+        "id": "42",
+        "court_complexes": {}
+      },
+      "Meerut": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Mirzapur": {
+        "id": "68",
+        "court_complexes": {}
+      },
+      "Moradabad": {
+        "id": "54",
+        "court_complexes": {}
+      },
+      "Muzaffarnagar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Pilibhit": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "Pratapgarh": {
+        "id": "31",
+        "court_complexes": {}
+      },
+      "Prayagraj": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Raebareli": {
+        "id": "55",
+        "court_complexes": {}
+      },
+      "Rampur": {
+        "id": "56",
+        "court_complexes": {}
+      },
+      "Saharanpur": {
+        "id": "57",
+        "court_complexes": {}
+      },
+      "Sambhal at Chandausi": {
+        "id": "74",
+        "court_complexes": {}
+      },
+      "Santkabir Nagar": {
+        "id": "71",
+        "court_complexes": {}
+      },
+      "Shahjahanpur": {
+        "id": "58",
+        "court_complexes": {}
+      },
+      "Shamli at Kairana": {
+        "id": "76",
+        "court_complexes": {}
+      },
+      "Shravasti": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Siddharthnagar": {
+        "id": "59",
+        "court_complexes": {}
+      },
+      "Sitapur": {
+        "id": "16",
+        "court_complexes": {}
+      },
+      "Sonbhadra": {
+        "id": "60",
+        "court_complexes": {}
+      },
+      "Sultanpur": {
+        "id": "61",
+        "court_complexes": {}
+      },
+      "Unnao": {
+        "id": "62",
+        "court_complexes": {}
+      },
+      "Varanasi": {
+        "id": "27",
+        "court_complexes": {}
+      }
+    }
+  },
+  "West Bengal": {
+    "id": "16",
+    "districts": {
+      "Alipurduar": {
+        "id": "26",
+        "court_complexes": {}
+      },
+      "Bankura": {
+        "id": "19",
+        "court_complexes": {}
+      },
+      "Birbhum": {
+        "id": "8",
+        "court_complexes": {}
+      },
+      "Calcutta": {
+        "id": "3",
+        "court_complexes": {}
+      },
+      "Coochbehar": {
+        "id": "6",
+        "court_complexes": {}
+      },
+      "Darjeeling": {
+        "id": "17",
+        "court_complexes": {}
+      },
+      "Hooghly": {
+        "id": "2",
+        "court_complexes": {}
+      },
+      "Howrah": {
+        "id": "11",
+        "court_complexes": {}
+      },
+      "Jalpaiguri": {
+        "id": "4",
+        "court_complexes": {}
+      },
+      "Jhargram": {
+        "id": "25",
+        "court_complexes": {}
+      },
+      "kalimpong": {
+        "id": "23",
+        "court_complexes": {}
+      },
+      "Malda": {
+        "id": "1",
+        "court_complexes": {}
+      },
+      "Murshidabad": {
+        "id": "12",
+        "court_complexes": {}
+      },
+      "Nadia": {
+        "id": "22",
+        "court_complexes": {}
+      },
+      "North Dinajpur": {
+        "id": "21",
+        "court_complexes": {}
+      },
+      "North  Twenty Four Parganas": {
+        "id": "14",
+        "court_complexes": {}
+      },
+      "Paschim Bardhaman": {
+        "id": "24",
+        "court_complexes": {}
+      },
+      "Paschim Medinpur": {
+        "id": "7",
+        "court_complexes": {}
+      },
+      "Purba Bardhaman": {
+        "id": "18",
+        "court_complexes": {}
+      },
+      "Purba Medinipur": {
+        "id": "9",
+        "court_complexes": {}
+      },
+      "Purulia": {
+        "id": "10",
+        "court_complexes": {}
+      },
+      "South Dinajpur": {
+        "id": "13",
+        "court_complexes": {}
+      },
+      "South Twenty Four Parganas": {
+        "id": "20",
+        "court_complexes": {}
+      }
+    }
+  }
+}
