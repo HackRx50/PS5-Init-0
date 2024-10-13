@@ -1,44 +1,39 @@
 import React, { useState } from "react";
-import { Box, Button, Typography, Grid, useTheme } from "@mui/material";
+import { Box, Typography, Button, Grid } from "@mui/material";
 import { DataGrid } from "@mui/x-data-grid";
 import axios from "axios";
 
 const Invoices = () => {
-  const theme = useTheme();
   const [file, setFile] = useState(null);
-  const [tableData, setTableData] = useState([]);
-  const [columns, setColumns] = useState([]);
+  const [parsedData, setParsedData] = useState({});
+  const [classificationData, setClassificationData] = useState({});
+  const [petitionerCaseDetails, setPetitionerCaseDetails] = useState([]);
+  const [advocateCaseDetails, setAdvocateCaseDetails] = useState([]);
+  const [commonCaseDetails, setCommonCaseDetails] = useState([]);
 
-  // Handle file input change
   const handleFileChange = (e) => {
     setFile(e.target.files[0]);
   };
 
-  // Handle submit button click
   const handleSubmit = async () => {
     if (file) {
       const formData = new FormData();
       formData.append("pdf", file);
-      formData.append("api_key", "your-api-key-here"); // Replace with actual API key
 
       try {
-        const response = await axios.post("http://localhost:5000/process-pdf", formData, {
+        const response = await axios.post("https://04b7-125-16-34-110.ngrok-free.app/test", formData, {
           headers: { "Content-Type": "multipart/form-data" },
         });
 
         if (response.data) {
-          const data = response.data.choices[0].message.content; // Adjust based on actual response structure
-          const jsonData = JSON.parse(data);
-
-          // Set columns and rows based on the response
-          const newColumns = Object.keys(jsonData).map((key) => ({
-            field: key,
-            headerName: key.charAt(0).toUpperCase() + key.slice(1),
-            flex: 1,
-          }));
-
-          setColumns(newColumns);
-          setTableData([jsonData]);
+          const { parsed_data, classification_data, petitioner_case_details, advocate_case_details, common_case_details } = response.data;
+          setParsedData(parsed_data);
+          setClassificationData(classification_data);
+          
+          // Assign unique IDs for DataGrid
+          setPetitionerCaseDetails(petitioner_case_details.map((item, index) => ({ ...item, id: index })));
+          setAdvocateCaseDetails(advocate_case_details.map((item, index) => ({ ...item, id: index })));
+          setCommonCaseDetails(common_case_details.map((item, index) => ({ ...item, id: index })));
         }
       } catch (error) {
         console.error("Error uploading the PDF: ", error);
@@ -46,71 +41,76 @@ const Invoices = () => {
     }
   };
 
-  // Sample static data for parsed information (can be replaced with dynamic data later)
-  const parsedData = {
-    "Petitioner Name": "John Doe",
-    "Petitioner Advocate": "Adv. Smith",
-    "State": "California",
-    "District": "Los Angeles",
-    "Court Complex": "Downtown Court Complex",
-    "Claim Amount": "$500,000",
-  };
-
   return (
-    <Box m="20px">
-      <Typography variant="h4">PDF OCR and Analysis</Typography>
+    <Box>
+      <input type="file" onChange={handleFileChange} />
+      <Button variant="contained" onClick={handleSubmit}>Submit</Button>
 
-      {/* File upload section */}
-      <Grid container spacing={2} mt={3}>
-        <Grid item xs={12}>
-          <input type="file" onChange={handleFileChange} />
-          <Button variant="contained" color="primary" onClick={handleSubmit} sx={{ ml: 2 }}>
-            Upload and Process
-          </Button>
-        </Grid>
-
-        {/* Parsed data next to the button */}
-        <Grid item xs={12} mt={2}>
-          <Typography variant="h6" gutterBottom>Parsed Data (Static)</Typography>
-          <Grid container spacing={2}>
-            {Object.keys(parsedData).map((key) => (
-              <Grid item xs={6} sm={4} key={key}>
-                <Typography><strong>{key}:</strong> {parsedData[key]}</Typography>
-              </Grid>
-            ))}
+      <Typography variant="h6" sx={{ marginTop: 2 }}>Parsed Data</Typography>
+      <Grid container spacing={2}>
+        {Object.entries(parsedData).map(([key, value]) => (
+          <Grid item xs={12} sm={6} key={key}>
+            <Typography>
+              <strong>{key}:</strong> {value}
+            </Typography>
           </Grid>
-        </Grid>
+        ))}
       </Grid>
 
-      {/* Multiple analysis tables below the button and parsed data */}
-      <Box mt={5}>
-        <Typography variant="h5" gutterBottom>Analysis Tables</Typography>
+      <Typography variant="h6" sx={{ marginTop: 2 }}>Classification Data</Typography>
+      <Typography>
+        <strong>Fraud Analysis:</strong> {classificationData["Fraud Analysis"]}
+      </Typography>
+      <Typography>
+        <strong>Reasoning:</strong>
+      </Typography>
+      <ul>
+        {classificationData.Reasoning?.map((reason, index) => (
+          <li key={index}>{reason}</li>
+        ))}
+      </ul>
+      {/* <Typography>
+        <strong>Fraud Flag:</strong> {classificationData.Fraud_Flag ? "Yes" : "No"}
+      </Typography> */}
 
-        {/* Table 1 */}
-        <Box mb={4}>
-          <Typography variant="h6">Table 1: Example Data</Typography>
-          <Box height="40vh" mt={2}>
-            {columns.length > 0 && tableData.length > 0 ? (
-              <DataGrid rows={tableData} columns={columns} />
-            ) : (
-              <Typography>No data yet. Please upload a PDF.</Typography>
-            )}
-          </Box>
-        </Box>
+      <Typography variant="h6" sx={{ marginTop: 2 }}>Petitioner Case Details</Typography>
+      <DataGrid
+        rows={petitionerCaseDetails}
+        columns={[
+          { field: "id", headerName: "ID", width: 90 },
+          { field: "caseNumber", headerName: "Case Number", width: 150 },
+          // Add more columns based on your case details structure
+        ]}
+        pageSize={5}
+        autoHeight
+        getRowId={(row) => row.id} // Specify which field to use as the unique ID
+      />
 
-        {/* Table 2 - Placeholder for another analysis table */}
-        <Box mb={4}>
-          <Typography variant="h6">Table 2: Another Data Analysis</Typography>
-          <Box height="40vh" mt={2}>
-            {/* Replace with another DataGrid or analysis content */}
-            {columns.length > 0 && tableData.length > 0 ? (
-              <DataGrid rows={tableData} columns={columns} />
-            ) : (
-              <Typography>No data yet. Please upload a PDF.</Typography>
-            )}
-          </Box>
-        </Box>
-      </Box>
+      <Typography variant="h6" sx={{ marginTop: 2 }}>Advocate Case Details</Typography>
+      <DataGrid
+        rows={advocateCaseDetails}
+        columns={[
+          { field: "id", headerName: "ID", width: 90 },
+          { field: "caseNumber", headerName: "Case Number", width: 150 },
+          // Add more columns based on your case details structure
+        ]}
+        pageSize={5}
+        autoHeight
+        getRowId={(row) => row.id} // Specify which field to use as the unique ID
+      />
+
+      <Typography variant="h6" sx={{ marginTop: 2 }}>Common Case Details</Typography>
+      <DataGrid
+        rows={commonCaseDetails}
+        columns={[
+          { field: "id", headerName: "ID", width: 90 },
+          { field: "caseNumber", headerName: "Case Number", width: 150 },
+          // Add more columns based on your case details structure
+        ]}
+        pageSize={5}
+        autoHeight
+        getRowId={(row) => row.id} // Specify which field to use as the unique ID
+      />
     </Box>
   );
 };
