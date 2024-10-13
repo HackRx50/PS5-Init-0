@@ -63,11 +63,15 @@ app.post("/process-pdf", upload.single("pdf"), (req, res) => {
           res.json(gemmaRes.data);
         })
         .catch((err) => {
-          res.status(500).json({ error: "Error processing the PDF", details: err.message });
+          res
+            .status(500)
+            .json({ error: "Error processing the PDF", details: err.message });
         });
     })
     .catch((error) => {
-      res.status(500).json({ error: "Error in OCR processing", details: error.message });
+      res
+        .status(500)
+        .json({ error: "Error in OCR processing", details: error.message });
     });
 });
 

@@ -22,9 +22,13 @@ const Invoices = () => {
       formData.append("api_key", "your-api-key-here"); // Replace with actual API key
 
       try {
-        const response = await axios.post("http://localhost:5000/process-pdf", formData, {
-          headers: { "Content-Type": "multipart/form-data" },
-        });
+        const response = await axios.post(
+          "http://localhost:5000/process-pdf",
+          formData,
+          {
+            headers: { "Content-Type": "multipart/form-data" },
+          }
+        );
 
         if (response.data) {
           const data = response.data.choices[0].message.content; // Adjust based on actual response structure
@@ -50,8 +54,8 @@ const Invoices = () => {
   const parsedData = {
     "Petitioner Name": "John Doe",
     "Petitioner Advocate": "Adv. Smith",
-    "State": "California",
-    "District": "Los Angeles",
+    State: "California",
+    District: "Los Angeles",
     "Court Complex": "Downtown Court Complex",
     "Claim Amount": "$500,000",
   };
@@ -64,18 +68,27 @@ const Invoices = () => {
       <Grid container spacing={2} mt={3}>
         <Grid item xs={12}>
           <input type="file" onChange={handleFileChange} />
-          <Button variant="contained" color="primary" onClick={handleSubmit} sx={{ ml: 2 }}>
+          <Button
+            variant="contained"
+            color="primary"
+            onClick={handleSubmit}
+            sx={{ ml: 2 }}
+          >
             Upload and Process
           </Button>
         </Grid>
 
         {/* Parsed data next to the button */}
         <Grid item xs={12} mt={2}>
-          <Typography variant="h6" gutterBottom>Parsed Data (Static)</Typography>
+          <Typography variant="h6" gutterBottom>
+            Parsed Data (Static)
+          </Typography>
           <Grid container spacing={2}>
             {Object.keys(parsedData).map((key) => (
               <Grid item xs={6} sm={4} key={key}>
-                <Typography><strong>{key}:</strong> {parsedData[key]}</Typography>
+                <Typography>
+                  <strong>{key}:</strong> {parsedData[key]}
+                </Typography>
               </Grid>
             ))}
           </Grid>
@@ -84,7 +97,9 @@ const Invoices = () => {
 
       {/* Multiple analysis tables below the button and parsed data */}
       <Box mt={5}>
-        <Typography variant="h5" gutterBottom>Analysis Tables</Typography>
+        <Typography variant="h5" gutterBottom>
+          Analysis Tables
+        </Typography>
 
         {/* Table 1 */}
         <Box mb={4}>

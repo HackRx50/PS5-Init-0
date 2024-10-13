@@ -103,10 +103,10 @@ const Team = () => {
         <DataGrid checkboxSelection rows={mockDataTeam} columns={columns} />
       </Box> */}
       <iframe
-        title="data_saving"
+        title="data"
         width="1140"
         height="541.25"
-        src="https://app.powerbi.com/reportEmbed?reportId=7422e9ce-6923-4e5e-8009-c289260836a1&autoAuth=true&ctid=d1f14348-f1b5-4a09-ac99-7ebf213cbc81"
+        src="https://app.powerbi.com/reportEmbed?reportId=ceadf292-fe82-419c-9327-a97c2942126c&autoAuth=true&ctid=d1f14348-f1b5-4a09-ac99-7ebf213cbc81"
         frameborder="0"
         allowFullScreen="true"
       ></iframe>
